@@ -1,2 +1,0 @@
-# ZINE
-Projects for ZINE 
